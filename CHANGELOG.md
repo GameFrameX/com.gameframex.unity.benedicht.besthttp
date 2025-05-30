@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.8.5](https://github.com/GameFrameX/com.gameframex.unity.benedicht.besthttp/tree/2.8.5) (2025-05-30)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.benedicht.besthttp/compare/2.8.4...2.8.5)
+
 ## [2.8.4](https://github.com/GameFrameX/com.gameframex.unity.benedicht.besthttp/tree/2.8.4) (2025-05-29)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.benedicht.besthttp/compare/2.8.3...2.8.4)
